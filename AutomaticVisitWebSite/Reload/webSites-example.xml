@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+  <!--<website>
+    <name>Google</name>
+    <url>http://www.google.fr</url>
+    --><!--user="" password="" userField="" passwordField="" token=""--><!--
+    --><!--<login url="http://www.google.fr" />--><!--
+    <pages>
+      <page url="http://www.google.fr" identification="false"/>
+    </pages>
+  </website>-->
+</websites>
