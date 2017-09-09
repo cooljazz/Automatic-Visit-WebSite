@@ -54,6 +54,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="webSites-example.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="webSites.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
